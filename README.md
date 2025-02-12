@@ -21,6 +21,7 @@ Understanding human emotions is crucial in various fields, including mental heal
 ## **3. Dataset Description**  
 
 ### **3.1 Sources**  
+- **Kaggle Dataset** = https://www.kaggle.com/datasets/preritbhagat/stress-non-stress-images/data
 - **[CK+ (Cohn-Kanade Extended)](w)** – Facial expression dataset commonly used for emotion recognition.  
 - **[TFEID (Taiwanese Facial Expression Image Database)](w)** – Dataset containing various emotional expressions.  
 
