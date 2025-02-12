@@ -88,4 +88,3 @@ Understanding human emotions is crucial in various fields, including mental heal
 
 This project will contribute to stress analysis and emotion recognition by leveraging deep learning models on CK+ and TFEID datasets. The findings can be useful in mental health monitoring, AI-powered emotion detection, and human-computer interaction applications.  
 
-Would you like any modifications or additional details in the report? 🚀
